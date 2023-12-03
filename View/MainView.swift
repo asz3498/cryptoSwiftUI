@@ -36,7 +36,7 @@ struct MainView: View {
                             .fontWeight(.semibold)
                     }
                     
-                }.navigationTitle("Kripto Para Listesi")
+                }.navigationTitle("Crypto List")
                 
                     .searchable(text: $searchText)
                 
